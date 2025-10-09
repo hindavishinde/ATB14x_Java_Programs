@@ -1,12 +1,19 @@
 package ex_06_Literals;
 
 public class Lab019_Literals_P1 {
-    public static void main(String[] args) {
-        int local;
-        local = 10;
-        System.out.println(local);
+        public static void main(String[] args) {
+
+            int age = 65;
+            // Literal - Integral
+
+            final float pi = 3.14f;
+            //  Literal - float
 
 
 
+            final int girl_age = 18;
+            //girl_age = 19;
+
+
+        }
     }
-}
