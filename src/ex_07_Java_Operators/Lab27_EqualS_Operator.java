@@ -1,6 +1,6 @@
 package ex_07_Java_Operators;
 
-public class Lab24_EqualS_Operator {
+public class Lab27_EqualS_Operator {
     public static void main(String[] args) {
         System.out.println(10 == 10);
 //        True
